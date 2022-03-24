@@ -1,0 +1,10 @@
+git status
+git add .
+git commit -m
+git push  -изменение на сервере
+git branch --list
+git branch --list -v
+git checkout для переключения на другую ветку
+C:\Program Files\Git>cd /d d:\ИНФО\обучение\Skillfactory\first_repo_public\
+git log  - командой, показывающей историю изменений
+git rm название файла   - удаление
