@@ -1,0 +1,6 @@
+git add .
+git commit -m "added new faile"
+git push
+git branch
+git checkout -b header(это название ветки , может быть любым)
+git clone https://github.com/starostinQAP73/first_repo_public.git(любой путь) -b header(любое название ветки)
